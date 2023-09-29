@@ -1,0 +1,3 @@
+## NEDT Script
+
+::: scripts.nedt

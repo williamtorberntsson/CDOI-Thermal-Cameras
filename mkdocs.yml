@@ -1,0 +1,18 @@
+site_name: CDIO Thermal Cameras Documentation
+
+theme:
+  name: "material"
+
+plugins:
+  - mkdocstrings
+
+nav:
+  - CDIO Thermal Cameras Docs: index.md
+  - Setting up Environment: how-to-install-program.md
+  - Documentation:
+    - Distorsion: tutorials/dist.md
+    - MTF: tutorials/mtf.md
+    - NEDT: tutorials/nedt.md
+    - Temperature: tutorials/temp.md
+  - Running The Program: how-to-run-program.md
+  - Examle of Running The Program: example.md
